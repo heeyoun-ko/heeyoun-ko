@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3시 24분.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "3시 24분.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "3시 24분.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "3시 24분.md"
+            "file": "README.md"
           }
         }
       }
@@ -140,12 +140,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a304f3a583a5512",
+  "active": "6642ce2f71468ca6",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "2023-09-29.md",
     "3시 24분.md",
     "ade.jpg",
     "유치원.png",
+    "Untitled.canvas",
     "README.md",
     "README.md-2"
   ]
