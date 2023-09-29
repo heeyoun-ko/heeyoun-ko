@@ -20,11 +20,11 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "",
+  "gitDir": "https://github.com/heeyoun-ko/heeyoun-ko.git",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,

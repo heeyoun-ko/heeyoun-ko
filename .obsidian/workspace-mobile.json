@@ -11,8 +11,12 @@
             "id": "94c12237c6404062",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "희귀병.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -27,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "희귀병.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "희귀병.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "희귀병.md"
           }
         }
       }
@@ -142,12 +145,13 @@
   },
   "active": "6642ce2f71468ca6",
   "lastOpenFiles": [
+    "README.md",
+    "유치원.png",
+    "희귀병.md",
     "2023-09-29.md",
     "3시 24분.md",
     "ade.jpg",
-    "유치원.png",
     "Untitled.canvas",
-    "README.md",
     "README.md-2"
   ]
 }
